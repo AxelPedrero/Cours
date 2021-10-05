@@ -1,0 +1,41 @@
+﻿/*
+	Auteur: A Pedrero	
+	Date : 21/09/2021
+	But :
+
+*/
+body{	background-image: url('https://mobile.agoravox.fr/local/cache-vignettes/L640xH512/A1-4-e754e.gif');
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size: cover;
+		padding : 20px; /*marge interne*/
+		margin-left: auto;
+		margin-right: auto;
+
+
+	 color: black ;}
+	h1 {color: greenyellow;}
+	h2{
+		border : outset brown 5px;
+		width : 12%; /*1/3 de la page en largeur*/
+		padding : 20px;/*marge interne*/
+		margin: auto;
+
+	}
+	h2{color: crimson;}
+
+	
+	
+	h4 {color:powderblue;}
+
+article{ margin-left: auto;
+		 margin-right: auto;
+
+	
+		}
+
+
+
+
+ 
+
